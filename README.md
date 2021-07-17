@@ -1,4 +1,20 @@
-# Mifan Twan Ardana ##
+# Bio ##
+```
+{
+  "firstName": "Mifan",
+  "lastName": "Twan Ardana",
+  "city": "Malang",
+  "interest": [
+      "frontend",
+      "angular",
+      "vue",
+      "svelte",
+      "shopify",
+      "wordpress",
+      "etc"
+  ],
+}
+```
 
 ## Portfolio ##
 - Frontend Engineer at :us: Grain Group.
@@ -7,7 +23,7 @@
 - Former Frontend Engineer at :fr: Dashlane.
 - Former Operations Administrator at :indonesia: Sucofindo.
 
-## Domain ##
+## Domain Owned & Playground Projects ##
 | Sites & Services | Partnership | Community |
 | ----------------- | ----------------- | ----------------- |
 | [mifantwan.com](https://mifantwan.com) | [transhift.io](https://transhift.io) | [frontendev.org](https://frontendev.org) |
