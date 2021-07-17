@@ -1,21 +1,36 @@
 ## Biograph ##
-```
-{
-  "firstName": "Mifan",
-  "lastName": "Twan Ardana",
-  "city": "Malang",
-  "interest": [
-      "frontend",
-      "angular",
-      "vue",
-      "svelte",
-      "shopify",
-      "wordpress",
-      "photography",
-      "etc"
-  ],
+
+```js
+let bio = {
+    "firstName"     : "Mifan",
+    "lastName"      : "Twan Ardana",
+    "city"          : "Malang",
+    "dateOfBirth"   : "May 7, 1985".
+    "mailTo"        : "me@mifan.io"
 }
+
+let interest = {
+    "specialist" : [
+        "frontend"
+    ],
+    "platform" : [
+        "shopify",
+        "wordpress", 
+        "angular",
+        "vue",
+        "gatsby"
+    ],
+    "hobbies" : [
+        "photography",
+        "model kit"
+    ],
+}
+
+let hireMe = Object.assign(bio, interest);
+document.write(hireMe);
 ```
+
+
 ## Portfolio ##
 - Frontend Engineer at :us: Grain Group.
 - Former Frontend Engineer at :cn: Skycoin.
