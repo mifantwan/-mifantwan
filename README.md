@@ -11,7 +11,11 @@ let bio = {
 
 let interest = {
     "specialist" : [
-        "frontend"
+        "frontend development",
+    ],
+    "generalist" : [
+        "fullstack development",
+        "software development"
     ],
     "platform" : [
         "shopify",
