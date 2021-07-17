@@ -1,11 +1,11 @@
 # Mifan Twan Ardana ##
 
 ## Portfolio ##
-- Frontend Engineer at Grain Group :us:
-- Former Frontend Engineer at Skycoin :cn:
-- Former Frontend Developer at Getdialog BV :netherlands: 
-- Former Frontend Engineer at Dashlane :fr:
-- Former Operations Administrator at Sucofindo :indonesia:
+- Frontend Engineer at :us: Grain Group.
+- Former Frontend Engineer at :cn: Skycoin.
+- Former Frontend Developer at :netherlands: Getdialog BV.
+- Former Frontend Engineer at :fr: Dashlane.
+- Former Operations Administrator at :indonesia: Sucofindo.
 
 ## Domain ##
 | Sites & Services | Partnership | Community |
