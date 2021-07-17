@@ -17,4 +17,4 @@
 | [vidiproject.app](https://vidiproject.app) |  [...]() | [...]() |
 
 
-> Wednesday is my day off, I refuse to touch any task related to the main job unless it's essential (production needs). I am willing to work anywhere that allows this one thing . 
+> Wednesday is my day off, I refuse to touch any task related to the main job unless it's essential (production needs). I would really appreciate to take an interview or accept a job that allows this one. 
