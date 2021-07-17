@@ -36,7 +36,7 @@ document.write(hireMe);
 
 
 ## Portfolio ##
-```Frontend Engineer at :us: Grain Group.```
+> Frontend Engineer at :us: Grain Group.
 - Former Frontend Engineer at :cn: Skycoin.
 - Former Frontend Developer at :netherlands: Getdialog BV.
 - Former Frontend Engineer at :fr: Dashlane.
