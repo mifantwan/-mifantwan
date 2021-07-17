@@ -1,4 +1,4 @@
-# Bio ##
+## Biograph ##
 ```
 {
   "firstName": "Mifan",
@@ -11,11 +11,11 @@
       "svelte",
       "shopify",
       "wordpress",
+      "photography",
       "etc"
   ],
 }
 ```
-
 ## Portfolio ##
 - Frontend Engineer at :us: Grain Group.
 - Former Frontend Engineer at :cn: Skycoin.
