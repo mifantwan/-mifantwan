@@ -45,11 +45,11 @@ document.write(hireMe);
 ## Domain Owned & Playground Projects ##
 | Sites & Services | Partnership | Community |
 | ----------------- | ----------------- | ----------------- |
-| [mifantwan.com](https://mifantwan.com) | [transhift.io](https://transhift.io) | [frontendev.org](https://frontendev.org) |
-| [mifan.io](https://mifan.io) | [frontendev.or.id](https://frontendev.or.id) |  [...]() |
-| [mifanstudio.com](https://mifanstudio.com) | [celatu.com](https://celatu.com) | [fullstack.or.id](https://fullstack.or.id)|
-| [vidiproject.com](https://vidiproject.com) | [mochiatto.com](https://mochiatto.com) | [...]() |
-| [vidiproject.app](https://vidiproject.app) |  [...]() | [...]() |
+| [mifantwan.com](https://mifantwan.com) | [mochiatto.com](https://mochiatto.com) | [frontendev.or.id](https://frontendev.or.id) |
+| [mifan.io](https://mifan.io) | [celatu.com](https://celatu.com) |  [fullstack.or.id](https://fullstack.or.id) |
+| [mifanstudio.com](https://mifanstudio.com) | [...]() | [...]() |
+| [vidiproject.com](https://vidiproject.com) | [...]() | [...]() |
+| [vidiproject.app](https://vidiproject.app) | [...]() | [...]() |
 
 
 > Wednesday is my day off, I refuse to touch any task related to the main job unless it's essential (production needs). I would really appreciate to take an interview or accept a job that allows this one. 
