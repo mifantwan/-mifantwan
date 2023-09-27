@@ -38,7 +38,7 @@ document.write(hireMe);
 
 
 ## Portfolio ##
-> Frontend Engineer at :us: Grain Group.
+- Frontend Engineer at :us: Grain Group.
 - Former Frontend Engineer at :cn: Skycoin.
 - Former Frontend Developer at :netherlands: Getdialog BV.
 - Former Frontend Engineer at :fr: Dashlane.
@@ -49,6 +49,7 @@ document.write(hireMe);
 | ----------------- | ----------------- | ----------------- |
 | [mifantwan.com](https://mifantwan.com) | [mochiatto.com](https://mochiatto.com) | [frontendev.or.id](https://frontendev.or.id) |
 | [mifan.io](https://mifan.io) | [celatu.com](https://celatu.com) |  [fullstack.or.id](https://fullstack.or.id) |
+| [mifan.dev](https://mifan.dev) | [...]() | [...]() |
 | [mifanstudio.com](https://mifanstudio.com) | [...]() | [...]() |
 | [vidiproject.com](https://vidiproject.com) | [...]() | [...]() |
 | [vidiproject.app](https://vidiproject.app) | [...]() | [...]() |
