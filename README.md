@@ -15,14 +15,16 @@ let interest = {
     ],
     "generalist" : [
         "fullstack development",
-        "software development"
+        "software development",
+        "system engineering"
     ],
     "platform" : [
         "shopify",
         "wordpress", 
         "angular",
         "vue",
-        "gatsby"
+        "gatsby",
+        "nvidia tegra"
     ],
     "hobbies" : [
         "photography",
